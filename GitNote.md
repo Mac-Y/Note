@@ -11,6 +11,8 @@
 - `git add`
 - `git commit -m "message you want to write"`
     + `git commit -m "added file"`
+- `git log`
+- `git --help`
 
 ## add all files
 - `git add *.txt`
@@ -20,3 +22,7 @@
 - `git remote add origin "location of remote repo"`
     + `git remote add origin https://github.com/Mac-Y/Note.git`
 - `git push -u origin master`
+
+## create branch
+- `git branch "your branch name"`
+- 
