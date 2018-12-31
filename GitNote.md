@@ -23,6 +23,9 @@
     + `git remote add origin https://github.com/Mac-Y/Note.git`
 - `git push -u origin master`
 
-## create branch
+## branching and merging
 - `git branch "your branch name"`
-- 
+- `git checkout "your branch name"`
+- `git merge "your branch name"` (merge your branch in master branch)
+- `git branch -d "your branch name"` (delete from local)
+- `git push origin --delete "your branch name"` (delete from remote)
